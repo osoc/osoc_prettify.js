@@ -18,12 +18,12 @@ pre{
 }
 pre, pre.prettyprint, code.prettyprint {
 	background-color: #333333;
-	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;
-	-o-border-radius: 8px;
-	-ms-border-radius: 8px;
-	-khtml-border-radius: 8px;
-	border-radius: 8px;
+	-moz-border-radius: 1em;
+	-webkit-border-radius: 1em;
+	-o-border-radius: 1em;
+	-ms-border-radius: 1em;
+	-khtml-border-radius: 1em;
+	border-radius: 1em;
 }
 
 pre.prettyprint {
